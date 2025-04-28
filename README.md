@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi there! I'm [Your Name], a 4th-year Computer Science student, graduating in 2025.
+- 👋 Hi there! I'm Supatsorn, a 4th-year Computer Science student, graduating in 2025.
 
 - 💻 Passionate about software development, with a focus on backend systems, APIs, and server-side technologies. Currently diving into Golang and exploring Next.js to expand my skill set!
 
