@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌐 Socials:
+<!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/supatsorn-sutthiphatkul-84651123b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supassorn.sutti@gmail.com) 
 
 <!-- # 💻 Tech Stack:
